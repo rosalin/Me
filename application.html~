@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+  <head>
+
+    <title>Rodrigo Rosalin</title>
+    <link rel="stylesheet" type="text/css" href="stylesheets/application.css">
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+  </head>
+  <body>
+    <div id="page">
+
+
+      <p class="summary">
+        Hi, my name is
+        <strong>Rodrigo Rosalin</strong>
+        and I'm a software developer with skills in both
+        <strong>server-side</strong>
+        and
+        <strong>interface</strong>
+        development.
+      </p>
+
+
+      <p class="additional">
+        My favorite languages ​​are ruby ​​and python but I also have experience with C, Java, Groovy and other languages​​.
+	I currently work at a company called Neemo managing and developing projects for Android, BlackBerry and iPhone.
+      </p>
+
+
+      <ul>
+        <li class="twitter">
+          <a href="http://twitter.com/rodrigo_rosalin" title="Twitter">Twitter</a>
+        </li>
+
+        <li class="github">
+          <a href="http://github.com/rosalin" title="Github">Github</a>
+        </li>
+
+        <li class="email">
+          <a href="mailto:rodrigo@cotebr.com" title="E-mail">E-mail</a>
+        </li>
+
+        <li class="skype">
+          <a href="skype:rodrigo_cotebr" title="Skype">Skype</a>
+        </li>
+      </ul>
+    </div>
+  </body>
+</html>

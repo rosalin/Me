@@ -1,0 +1,76 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background: url("/home/rodrigo/me_simple/images/bg.png") repeat scroll 0 0 #2C3641;
+    color: #FFFFFF;
+    font-family: "Museo 700 Regular",helvetica,arial,sans-serif;
+}
+header {
+    visibility: hidden;
+}
+h1 {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+#page {
+    height: 300px;
+    left: 50%;
+    margin: -150px 0 0 -360px;
+    position: absolute;
+    top: 50%;
+    width: 720px;
+}
+.summary {
+    font-size: 40px;
+    letter-spacing: -1px;
+    line-height: 1;
+}
+.additional, .additional * {
+    color: #8C9198;
+    font-size: 18px;
+}
+.summary, .additional {
+    text-shadow: 1px 1px #111111;
+}
+.additional {
+    margin: 10px 0;
+}
+strong {
+    color: yellowgreen;
+    font-weight: normal;
+}
+ul {
+    list-style: none outside none;
+    margin-top: 20px;
+    overflow: hidden;
+}
+li {
+    float: left;
+    margin-right: 10px;
+}
+li a {
+    background: none no-repeat scroll 0 0 transparent;
+    display: block;
+    height: 16px;
+    overflow: hidden;
+    text-indent: -9999px;
+    width: 16px;
+}
+.email a {
+    background-image: url("/home/rodrigo/me_simple/images/email.png");
+}
+
+.twitter a {
+    background-image: url("/home/rodrigo/me_simple/images/twitter.png");
+}
+
+.github a {
+    background-image: url("/home/rodrigo/me_simple/images/github.png");
+}
+.skype a {
+    background-image: url("/home/rodrigo/me_simple/images/skype.png");
+}
+
