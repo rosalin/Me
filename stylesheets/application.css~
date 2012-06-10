@@ -64,13 +64,13 @@ li a {
 }
 
 .twitter a {
-    background-image: url("/home/rodrigo/me_simple/twitter.png");
+    background-image: url("/home/rodrigo/me_simple/images/twitter.png");
 }
 
 .github a {
     background-image: url("/home/rodrigo/me_simple/images/github.png");
 }
 .skype a {
-    background-image: url("/home/rodrigo/me_simple/skype.png");
+    background-image: url("/home/rodrigo/me_simple/images/skype.png");
 }
 
