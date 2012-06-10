@@ -4,7 +4,7 @@
     padding: 0;
 }
 body {
-    background: url("/home/rodrigo/me_simple/images/bg.png") repeat scroll 0 0 #2C3641;
+    background: url("images/bg.png") repeat scroll 0 0 #2C3641;
     color: #FFFFFF;
     font-family: "Museo 700 Regular",helvetica,arial,sans-serif;
 }
